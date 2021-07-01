@@ -1,4 +1,4 @@
-# @baked/snowflakes
+# @baked/qr-util
 
 used by @baked/qr-react
 
